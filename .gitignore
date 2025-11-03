@@ -1,0 +1,70 @@
+# ============================================
+# Python / Playwright Automation Framework
+# ============================================
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test & report artifacts
+allure-results/
+allure-report/
+reports/
+logs/
+output/
+*.trace.zip
+*.png
+*.webm
+
+# Playwright specific
+playwright-report/
+test-results/
+blob-report/
+*.zip
+
+# Environment & secrets
+.env
+.env.*
+!env.example
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
+*.tar
+*.bak
+
+# Pytest cache
+.cache/
+.pytest_cache/
+
+# Coverage
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter notebooks (if any)
+.ipynb_checkpoints
+
+# ============================================
+# End of file
+# ============================================
