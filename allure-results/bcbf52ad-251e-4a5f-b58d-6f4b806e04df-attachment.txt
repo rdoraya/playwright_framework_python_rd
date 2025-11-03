@@ -1,1 +1,0 @@
-INFO     automation:test_api_example.py:11 Running API test - Get Post
