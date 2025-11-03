@@ -1,0 +1,1 @@
+INFO     automation:test_ui_example.py:12 Starting Google UI Test

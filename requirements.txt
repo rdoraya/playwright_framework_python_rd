@@ -1,0 +1,7 @@
+pytest>=7.0
+pytest-playwright>=0.5
+playwright>=1.30
+requests>=2.28
+python-dotenv>=1.0
+pytest-xdist
+allure-pytest

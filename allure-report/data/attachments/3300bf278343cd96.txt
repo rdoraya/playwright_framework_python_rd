@@ -1,0 +1,2 @@
+INFO     automation:test_ui_example.py:12 Starting Google UI Test
+INFO     automation:test_ui_example.py:17 Google search test passed

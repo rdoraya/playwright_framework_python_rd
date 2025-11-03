@@ -1,0 +1,11 @@
+{
+    "user": {
+        "email": "test@example.com",
+        "password": "password123"
+    },
+    "search_terms": [
+        "playwright",
+        "pytest",
+        "allure"
+    ]
+}

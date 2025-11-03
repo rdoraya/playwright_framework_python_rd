@@ -1,0 +1,5 @@
+[32mINFO    [0m automation:test_api_example.py:11 Running API test - Get Post
+[32mINFO    [0m automation:test_api_example.py:12 Base URL: https://jsonplaceholder.typicode.com
+[32mINFO    [0m automation:test_api_example.py:14 Response URL: https://jsonplaceholder.typicode.com/posts/1
+[32mINFO    [0m automation:test_api_example.py:15 Response Status: 200
+[32mINFO    [0m automation:test_api_example.py:19 API test passed successfully
